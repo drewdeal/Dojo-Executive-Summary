@@ -9,7 +9,7 @@ Solving for such a multi-layered problem requires support not only from leadersh
 
 Without a strategic approach toward achieving new skills beyond individual specialization and ad hoc learning, the path to group mastery will go through a number of impeding phases.
 
-![ETTSESAM](./ettsesamModel_1.jpg)
+![ETTSESAM](./ettsesamModel_1.png)
 
 ### The Solution Path
 
