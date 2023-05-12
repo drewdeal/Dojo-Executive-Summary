@@ -7,6 +7,10 @@ Additionally, many in XYZ leadership recognize the benefits of investing in tech
 
 Solving for such a multi-layered problem requires support not only from leadership, but a system-wide willingness to re-align both Product and technical priorities toward achieving effective Continuous Delivery. Whereas in times past, the challenges described here were not addressed with a broad enough approach, studies have shown that a shift toward [becoming a learning organization](https://hbr.org/2008/03/is-yours-a-learning-organization) in one or more verticals can overcome these common challenges in a demonstrable and repeatable pattern.
 
+Without a strategic approach toward achieving new skills beyond individual specialization and ad hoc learning, the path to group mastery will go through a number of impeding phases.
+
+![ETTSESAM](./ettsesamModel_1.jpg)
+
 ### The Solution Path
 
 While investing in becoming a learning organization can be interpreted as a huge and perhaps ambiguous risk, starting small by sponsoring the launch of an immersive learning program in a strategic area where shifting to the Cloud and modern practices has been difficult provides the best path to bring your people up to speed with your modernization goals. 
