@@ -18,3 +18,11 @@ While investing in becoming a learning organization can be interpreted as a huge
 It is true that adoption and mastery of new skills requires focused time away from current demands, AND current demands make it hard to find focused time to carve out. Nonetheless, the answer isn't to settle for shallow exposure to the new needed skills and hope they get traction, but rather to combine the practice of applying new skills into current production demands in an intentional and safe way. 
 
 This is achieved by implementing a number of Dojo engagements where teams are immersed into achieving their learning goals in the context of their current work demands. Work does not stop while team members are out in training in an abstracted context, but work does temporarily slow down while old practices are traded out for new ones. And since the team learns together, productivity then rapidly speeds up to new levels as the usual undulations of group skills mastery are mitigated and de-phased.
+
+### Further Reading
+[Full Presentation to XYZ Leadership for a Dojo](http://cgipro.com/interview/XYZDojoEngagementPlan.pdf)
+
+[A Dojo Charter Template](http://cgipro.com/interview/TheDojoCharter.pdf)
+
+[A Sample Dojo Charter for XYZ](http://cgipro.com/interview/TheDojoCharterLiatrioXYZ.pdf)
+
