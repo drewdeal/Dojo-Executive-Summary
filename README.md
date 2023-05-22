@@ -30,5 +30,5 @@ Although XYZ doesn't rank as the fastest to adapt to change, nor the slowest, XY
 
 [A Dojo Charter Template](http://cgipro.com/interview/TheDojoCharter.pdf)
 
-[A Sample Dojo Charter for XYZ](http://cgipro.com/interview/TheDojoCharterLiatrioXYZ.pdf)
+[A Sample Dojo Charter for XYZ](http://cgipro.com/interview/TheDojoCharterSampleXYZ.pdf)
 
