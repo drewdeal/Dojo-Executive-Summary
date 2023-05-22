@@ -11,13 +11,19 @@ Without a strategic approach that incorporates adopting new skills within each t
 
 ![ETTSESAM](./ettsesamModel_1.png)
 
-### The Solution Path
+### The Path Forward
 
 While investing in becoming a learning organization can be interpreted as a huge and perhaps ambiguous risk, starting small by sponsoring the launch of an immersive learning program in a strategic area provides the best path to bring your people up to speed with your modernization goals.
 
 It is true that adoption and mastery of new skills requires focused time away from current demands, AND current demands make it hard to find focused time to carve out. Nonetheless, the answer isn't to settle for shallow exposure to the new needed skills and hope they get traction, but rather to combine the practice of applying new skills into current production demands in an intentional and safe way. 
 
 This is achieved by implementing a number of Dojo engagements where teams are immersed into achieving their learning goals in the context of their current work demands. Work does not stop while team members are out in training in an abstracted context, but work does temporarily slow down while old practices are traded out for new ones. And since the team learns together, productivity then rapidly speeds up to new levels as the usual undulations of group skills mastery are mitigated and de-phased.
+
+### The Impact of Learning as a Strategic Priority
+
+It is difficult to overstate the challenges facing today's Fortune 500 companies in maintining market leadership in the new digital paradigm where adaptability and speed to market are becoming dominant product differentiators. Only the companies that invest heavily in their culture to help it adapt quickly will survive the competition that optimizes for change and organizational learning. 
+
+Although XYZ doesn't rank as the fastest to adapt to change, nor the slowest, XYZ has a clear opportunity to embrace the technical and product learning work ahead and emerge as a leader by breaking from traditional prescribed methods for learning and empowering teams closest to the work to own it. We are poised to partner wit you as a catalyst in this strategic priority, of which the Dojo is key tool for your people to learn and master the skills need to stand apart from the rest. One thing we do know... We are indeed seeing the prediction, "The fast will eat the slow", come to fruition.
 
 ### Further Reading
 [Full Presentation to XYZ Leadership for a Dojo](http://cgipro.com/interview/XYZDojoEngagementPlan.pdf)
